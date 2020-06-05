@@ -37,7 +37,7 @@ This section explains how the subset size and step size affect noise/error in DI
 The following analysis was carried out on the first 10 images of one set of DIC data. The subset size and step size where changed and the strain was recorded.  The images were captured before any deformation had begun, so there should be no strain detected. Any strain detected by the DIC software is therefore noise in the recording. The area in which the data was gathered from can be seen in the image below.
 ![](/wiki/assets/images/posts/AnalysisLocation.jpg)
 
-# Example Error determination and calibration
+### Example Error determination and calibration
 The first set of tests were performed to look at the variation in strain with changing Subset Size and constant step size. The Subset size variation can be seen below:
 - Subset size 11, step size 3
 - Subset size 21, step size 7
